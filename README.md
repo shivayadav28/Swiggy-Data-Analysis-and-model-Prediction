@@ -1,2 +1,3 @@
 # Swiggy-Data-Analysis-and-model-Prediction
 This Repository provides the analysis of the swiggy and the model prediction of the data.
+Swiggy is an Indian online food ordering and delivery platform founded in 2014. It connects customers with a wide range of local restaurants, allowing them to browse menus, place orders, and have food delivered directly to their doorstep. Swiggy offers various features, including real-time order tracking, multiple payment options, and promotional offers. It has grown to become one of the largest food delivery services in India, expanding its services to include grocery delivery and other on-demand services. Swiggy is known for its extensive network, rapid delivery, and customer-centric approach.
